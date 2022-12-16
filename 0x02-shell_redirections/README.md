@@ -1,0 +1,1 @@
+Dealing with shell input output redirections. using the commands head, tail, find, wc, sort, uniq,grep, tr 
